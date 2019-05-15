@@ -1,5 +1,5 @@
 # changbanshees.github.io
 博客
 <script>
-  window.location.href="https://weibo.com/u/6033917437?is_all=1"
+  window.location.href="https://www.zhihu.com/people/aaa-92-72/activities"
 </script>
